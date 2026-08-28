@@ -15,9 +15,10 @@ I also work with design systems, testing (Jest, React Testing Library, Playwrigh
 
 ## Selected work
 
+- [Innuora Web](https://github.com/mdinacer/innuora-web) — The multilingual, SEO-focused public website for an AI-powered reflective-intelligence platform, built with Next.js, TypeScript, and React.
+- [Innuora](https://github.com/mdinacer/innuora) — A full-stack AI application with structured reflection workflows, client-side encryption, internationalization, and an integrated product experience.
 - [Thought Detective](https://github.com/mdinacer/ThoughtDetective) — An AI-powered, React Native CBT companion that combines guided reflection, mood tracking, and an AI chat experience.
 - [My Portfolio](https://github.com/mdinacer/My-Portfolio) — Personal portfolio built with Next.js, React, TypeScript, Tailwind CSS, and SEO-focused metadata.
-- [OhFood](https://github.com/mdinacer/OhFood) — A substantial frontend project demonstrating product-oriented web development.
 
 ## Engineering focus
 
